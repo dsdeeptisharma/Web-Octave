@@ -1,0 +1,92 @@
+@import url("http://www.gnu.org/software/octave/octave.css");
+
+body { 
+	background-image: url("images/gradback.png"); 
+	background-repeat: repeat-y; 
+}
+body, h3, h4 {
+	background-color: white;
+}
+h1 {font-size: xx-large}
+h2 {font-size: x-large}
+h3 {font-size: medium; color: black;}
+h4 {font-size: small; color: black;}
+.fineprint {
+	font-size: x-small;
+	margin: 1em;
+}
+.error {
+	color: red;
+	font-family: monospace;
+}
+.msg, .prompt {
+	font-family: monospace;
+}
+.msg {
+	color: black;
+}
+.prompt {
+	color: green;
+}
+a {
+	text-decoration: none; 
+	font-weight: bolder;
+}
+ul.xmenu {
+	display: block;
+	margin: 0.2em; 
+	padding: 1px;
+	margin-bottom: 0.4em;
+	border-bottom: solid 1px #10a0ff;
+}
+ul.xmenu li
+{
+	background-color: white;
+	list-style: none;
+	margin: 0;
+	margin-left: 0.5em;
+	padding: 0;
+	display: inline;
+}
+ul.xmenu > li > a:hover
+{
+	background-color: #eee;
+}
+ul.xmenu > li > a
+{
+	background-color: white;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	border-top: solid 1px #33ccff;
+	border-left: solid 1px #33ccff;
+	border-right: solid 1px #33ccff;
+	border-bottom: solid 1px white;
+
+}
+ul.xmenu > li > a.active
+{
+	border-bottom: solid 1px #ddf;
+	background-color: #ddf;
+
+}
+
+div.panel {
+	margin: 0.5em;
+	padding: 0.5em;
+	border: 1px solid black;
+	background-color: #eee;
+}
+
+div.plot {
+	text-align: center;
+}
+div.plot > img {
+	text-align: center;
+}
+div.plot > span {
+	font-size: smaller;
+	text-align: left;
+}

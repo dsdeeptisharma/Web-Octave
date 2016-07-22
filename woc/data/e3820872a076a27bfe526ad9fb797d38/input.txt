@@ -1,0 +1,5 @@
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);

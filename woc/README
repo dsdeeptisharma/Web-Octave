@@ -1,0 +1,119 @@
+
+INTRODUCTION
+
+This document is intended to provide installation and usage instructions of Web
+Interface to Octave service, called shortly WebOctave. Instructions contained
+here are coarse, particularly they do not contain informations about
+installation of other software needed by WebOctave to work. Therefore, if you
+had problems with getting WebOctave working, then contact us to get help.
+
+Students' Numerical Scientific Group
+e-mail:knn@students.mimuw.edu.pl 
+http://knn.mimuw.edu.pl/index_eng.htm
+
+Website of Web Interface to Octave
+http://weboctave.sourceforge.net
+
+LICENSE
+
+Web Interface To Octave is distributed under GNU General Public License (GPL).
+
+Copyright (C) 2008 Kolo Naukowe Numerykow Uniwersytetu Warszawskiego
+(Students' Numerical Scientific Group of University of Warsaw)
+
+
+SECURITY ISSUES
+
+WARNING: Web Interface to Octave have poor protection against
+execution of unwanted or dangerous code on the server. 
+Thus it is NOT supposed to run on servers with important or secret
+data without additional security means.
+
+OPERATING SYSTEM
+
+Currently WebOctave is supposed to run in Linux-like operating
+systems. Installing it to non-Linux system would need some additional
+work and for the present is not supported.
+
+NECESSARY SOFTWARE
+
+WebOctave needs:
+1) WWW server with PHP>=5 support (ex. Apache)
+2) SQL server (ex. MySQL, may be remote)
+3) Octave>=3.0.0
+
+These software are available in most Linux distributions. 
+
+INSTALLATION
+
+Installation procedure:
+1) Unpack webctave archive to a directory available to be accessed by
+   WWW server.
+1a) Depend on your permission policy, you may have to change 
+    premissions, in order to files be accessible by WWW server.
+    Particularly, you have to change permissions to directories "data"
+    and "Logs" to be writeable by WWW server.
+2) Create database to be used by WebOctave.
+3) Set database entries. Use "setup/db.sql" script, but edit it first
+   to supply the database name.
+4) Copy "config/config.php.example" to "config/config.php".
+5) Edit "config/config.php" and set your preferences. 
+   You have to set database data.
+Now your WebOctave environment is ready to work and should be
+accessible by any web browser.
+
+
+USAGE
+
+Web Interface to Octave is supposed to run Octave commands from a web
+browser. Browser have to set cookies on. 
+
+1) Commands and plots
+
+Octave commands may be run in Commands tag. User have to enter command into
+textbox, then click Submit to Octave button. Computations would be
+done on the server side and output will be shown below command
+textbox.
+
+Attention: There is time and space limit imposed on tasks (look at
+"config/config.php.example). 
+
+Plots will be placed also in Plots tag. They may be examined and downloaded.
+
+Attention: WebOctave supports only basic set of plot commands (plot,
+mesh,semilogx,...). Any plot-altering commands (xlabel, legend,...)
+will not work. hold on/off works, but you will have all partial plots
+in output.
+
+Commands, output and plots for are preserved between sessions. Look at
+next section for more information.
+
+2) Users
+
+Web Interface to Octave supports both anonymous and non-anonymous
+users. New user may be created in Account tag.
+
+Both anonymous and logged users have the same rights. However, if
+anonymous user wants to have his session saved, he have to use the
+same browser on the same computer. Logged user has his session
+preserved on any computer.
+
+Attention: Session informations are deleted after long period of
+inactivity (30 days).
+
+3) User-defined functions
+
+User may define his own Octave's functions. Functions may be created
+and managed by Functions tag. User may change old functions by Show
+Functions subtag or define new with Define Function subtag.  Remember
+to end function with "endfunction" command, not just "end".  
+
+New functions may be also defined in Commands tag directly in Octave
+commands textbox. After clicking Submit to Octave they will be created
+and may be used in the computation immediately.
+
+4) Files
+
+User may govern his files by Files tag. For the present it is possible
+to examine files or to delete them.
+

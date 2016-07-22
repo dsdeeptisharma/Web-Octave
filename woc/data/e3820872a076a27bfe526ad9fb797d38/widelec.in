@@ -1,0 +1,126 @@
+
+function __wio_plot(varargin)
+global __wio_plot_index;
+builtin("plot",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_loglog(varargin)
+global __wio_plot_index;
+builtin("loglog",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_mesh(varargin)
+global __wio_plot_index;
+builtin("mesh",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_semilogx(varargin)
+global __wio_plot_index;
+builtin("semilogx",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_semilogy(varargin)
+global __wio_plot_index;
+builtin("semilogy",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_polar(varargin)
+global __wio_plot_index;
+builtin("polar",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_contour(varargin)
+global __wio_plot_index;
+builtin("contour",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_surf(varargin)
+global __wio_plot_index;
+builtin("surf",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_bar(varargin)
+global __wio_plot_index;
+builtin("bar",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_stairs(varargin)
+global __wio_plot_index;
+builtin("stairs",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_errorbar(varargin)
+global __wio_plot_index;
+builtin("errorbar",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+function __wio_plot3(varargin)
+global __wio_plot_index;
+builtin("plot3",varargin{:});
+print(strcat("plot", int2str(__wio_plot_index), ".png") , "-dpng");
+disp(strcat("[WIO_plot", int2str(__wio_plot_index), ".png]"));
+__wio_plot_index+=1;
+endfunction
+
+global __wio_plot_index=1;  #image index
+dispatch("plot","__wio_plot","any");    #change
+dispatch("loglog","__wio_loglog","any");    #change
+dispatch("mesh","__wio_mesh","any");    #change
+dispatch("semilogx","__wio_semilogx","any");    #change
+dispatch("semilogy","__wio_semilogy","any");    #change
+dispatch("polar","__wio_polar","any");    #change
+dispatch("contour","__wio_contour","any");    #change
+dispatch("surf","__wio_surf","any");    #change
+dispatch("bar","__wio_bar","any");    #change
+dispatch("stairs","__wio_stairs","any");    #change
+dispatch("errorbar","__wio_errorbar","any");    #change
+dispatch("plot3","__wio_plot3","any");    #change
+figure(1, "visible", "off");
+
+
+
+crash_dumps_octave_core(0); octave_core_file_limit(1)
+
+
+# User's input starts here 
+
+ PS4('[OCT_PROMPT_BEGIN]\s>[OCT_PROMPT_END] ');
+ echo_executing_commands(1);
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);

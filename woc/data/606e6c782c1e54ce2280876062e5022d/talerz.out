@@ -1,0 +1,4 @@
+[OCT_PROMPT_BEGIN]\s>[OCT_PROMPT_END] A = [1, 1; 2, 2];
+[OCT_PROMPT_BEGIN]\s>[OCT_PROMPT_END] plot (A);
+[WIO_plot1.png]
+[OCT_PROMPT_BEGIN]\s>[OCT_PROMPT_END] endscript;

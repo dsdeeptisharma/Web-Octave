@@ -1,0 +1,524 @@
+<dh><b>21/06/16 </b>9:19:30 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:19:03 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:19:01 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:18:59 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:18:16 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:18:14 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:18:11 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:53 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:52 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:51 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:49 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:47 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:45 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:43 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>21/06/16 </b>9:17:21 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:34:18 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:49 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:48 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:47 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:47 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:46 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:45 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:44 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>20:19:37 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>13:57:43 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>13:56:04 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>13:55:31 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>12:23:14 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>12:23:09 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>20/06/16 </b>11:24:01 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>18/06/16 </b>16:32:50 <b>user:Deepti localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>06/06/16 </b>13:32:49 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>06/06/16 </b>13:32:35 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,1;2,2];
+plot(A);</pre></dd>
+<dh><b>06/06/16 </b>13:32:27 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,1;2,2];
+plot(A);</pre></dd>
+<dh><b>06/06/16 </b>13:32:24 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,1;2,2];
+plot(A);</pre></dd>
+<dh><b>06/06/16 </b>13:32:10 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,1;2,2];
+plot(A);</pre></dd>
+<dh><b>04/06/16 </b>11:08:58 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>04/06/16 </b>11:08:35 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:34 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:33 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:31 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:30 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:29 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:28 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:26 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:25 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:24 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:22 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:21 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:16 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:08 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:07 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:07 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:08:02 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>04/06/16 </b>11:07:58 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(x);</pre></dd>
+<dh><b>03/06/16 </b>10:14:59 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linspace(0,10);
+[X,Y]= meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>03/06/16 </b>10:12:09 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linspace(0,10);
+[X,Y]= meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>03/06/16 </b>10:11:47 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1,1;2,2;3,3];
+ plot(a);</pre></dd>
+<dh><b>03/06/16 </b>10:10:14 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linspace(0,10);
+[X,Y]= meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>03/06/16 </b>10:10:05 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linspace(0,10);
+[X,Y]= meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>03/06/16 </b>10:09:39 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linspace(0,10);
+[X,Y]= meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>03/06/16 </b>10:09:21 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linspace(0.10);
+[X,Y]= meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>01/06/16 </b>13:48:46 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1,1;2,2;3,3];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>13:37:44 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1,1;2,2;3,3];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:46:59 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1,1;2,2;3,3];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:46:30 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y = x = linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:46:26 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y = x = linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot; X);</pre></dd>
+<dh><b>01/06/16 </b>8:45:57 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y = x = linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:45:56 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y = x = linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:45:36 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y = x = linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:45:13 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y = x = linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X).&quot;cos(Y).&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:44:29 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X).&quot;cos(Y).&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:43:07 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:43:05 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linespace(0,10);
+[X,Y]=meshgrid(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:42:35 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linespace(0,10);
+[X,Y]=meshgride(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y), &quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:42:08 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A=[1,2;3,4]
+eig(A)
+y=x=linespace(0,10);
+[X,Y]=meshgride(x,y);
+mesh(X,Y,sin(X),&quot;cos(Y),&quot;X);</pre></dd>
+<dh><b>01/06/16 </b>8:37:05 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=90;
+sin (a);</pre></dd>
+<dh><b>01/06/16 </b>8:37:03 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=90;
+sin (a);</pre></dd>
+<dh><b>01/06/16 </b>8:36:46 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=90;
+sin(a);</pre></dd>
+<dh><b>01/06/16 </b>8:36:45 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=90;
+sin(a);</pre></dd>
+<dh><b>01/06/16 </b>8:36:30 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=90;
+sin(a);</pre></dd>
+<dh><b>01/06/16 </b>8:33:40 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=cos(0);
+plot(a)</pre></dd>
+<dh><b>01/06/16 </b>8:33:15 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=sin(0);
+plot(a)</pre></dd>
+<dh><b>01/06/16 </b>8:32:49 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=sin(90);
+plot(a)</pre></dd>
+<dh><b>01/06/16 </b>8:32:20 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=sin(x);
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:32:10 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=sinx;
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:29:16 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1, 1;2, 2];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:27:49 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:27:11 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:27:09 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:27:06 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2];
+ plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:25:52 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2;3 3];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:25:47 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2;3 3;];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:25:35 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2; 3 3];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:25:31 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1;2 2; 3 3];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:24:17 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(90);
+plot(y);</pre></dd>
+<dh><b>01/06/16 </b>8:24:07 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>01/06/16 </b>8:24:05 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);
+plot(y);</pre></dd>
+<dh><b>01/06/16 </b>8:23:55 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+y=sin(x);</pre></dd>
+<dh><b>01/06/16 </b>8:23:33 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[(1 1),(2 2),(3 3)];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:23:32 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[(1 1),(2 2),(3 3)];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:23:31 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[(1 1),(2 2),(3 3)];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:23:28 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[(1 1),(2 2),(3 3)];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:23:09 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[(1,1),(2,2),(3,3)];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:22:01 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1,2 2, 3 3];
+plot(a)</pre></dd>
+<dh><b>01/06/16 </b>8:21:56 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1,2 2, 3 3];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:21:44 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1,2 2, 3 3];
+plot(a);</pre></dd>
+<dh><b>01/06/16 </b>8:21:17 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+a=[1 1,2 2, 3 3];
+plot(a);</pre></dd>
+<dh><b>31/05/16 </b>0:15:09 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>31/05/16 </b>0:14:35 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+c=[1 1;2 2;3 3;4 4]
+plot(c)</pre></dd>
+<dh><b>31/05/16 </b>0:00:52 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>30/05/16 </b>23:41:16 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>30/05/16 </b>22:49:48 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>30/05/16 </b>21:58:19 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>30/05/16 </b>21:28:32 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>30/05/16 </b>20:45:13 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
+<dh><b>30/05/16 </b>20:29:01 <b>user: localhost</b> (127.0.0.1)</dh><dd><pre>
+A = [1,2;3,4]
+eig(A)
+y = x = linspace(0,10);
+[X,Y] = meshgrid(x,y);
+mesh(X,Y,sin(X).*cos(Y).*X);</pre></dd>
