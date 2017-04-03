@@ -7,20 +7,12 @@ here are coarse, particularly they do not contain informations about
 installation of other software needed by WebOctave to work. Therefore, if you
 had problems with getting WebOctave working, then contact us to get help.
 
-Students' Numerical Scientific Group
-e-mail:knn@students.mimuw.edu.pl 
-http://knn.mimuw.edu.pl/index_eng.htm
-
 Website of Web Interface to Octave
 http://weboctave.sourceforge.net
 
 LICENSE
 
 Web Interface To Octave is distributed under GNU General Public License (GPL).
-
-Copyright (C) 2008 Kolo Naukowe Numerykow Uniwersytetu Warszawskiego
-(Students' Numerical Scientific Group of University of Warsaw)
-
 
 SECURITY ISSUES
 
